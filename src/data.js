@@ -63,7 +63,7 @@ const LANGUAGES_ZH_NAMES = {
   hu: '匈牙利语',
   hy: '亚美尼亚语',
   hz: '赫勒娄语',
-  ia: '国际语',
+  ia: '因特语',
   id: '印尼语',
   ie: '国际语',
   ig: '伊博语',
